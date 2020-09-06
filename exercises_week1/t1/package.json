@@ -1,0 +1,16 @@
+{
+  "name": "t1",
+  "version": "1.0.0",
+  "description": "",
+  "main": "t1.js",
+  "scripts": {
+    "start": "node t1.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "readline-async": "^0.1.0",
+    "readline-sync": "^1.4.10"
+  }
+}
