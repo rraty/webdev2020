@@ -1,9 +1,9 @@
 class Henkilo {
   constructor(etunimet, sukunimi, kutsumanimi, syntymavuosi) {
     this._etunimet = etunimet;
-    this.sukunimi = sukunimi;
-    this.kutsumanimi = kutsumanimi;
-    this.syntymavuosi = syntymavuosi;
+    this._sukunimi = sukunimi;
+    this._kutsumanimi = kutsumanimi;
+    this._syntymavuosi = syntymavuosi;
   }
   // Etunimet
   get etunimet() {
