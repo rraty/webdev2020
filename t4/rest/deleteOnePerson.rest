@@ -1,0 +1,2 @@
+# Poista henkilö, jonka id = 1
+DELETE http://localhost:3000/person/1

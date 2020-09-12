@@ -1,0 +1,7 @@
+# Muokkaa henkilön, jonka id on 2 tietoja.
+PATCH http://localhost:3000/person/2
+content-type: application/json
+
+{
+    "nimi": "222Päivitetty nimi REST rajapinnasta"
+}

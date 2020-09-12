@@ -1,0 +1,8 @@
+# Lisää uusi henkilö
+POST http://localhost:3000/person
+content-type: application/json
+
+{
+    "nimi": "Testi REST Henkilö",
+    "puhelin": "0542154245"
+}

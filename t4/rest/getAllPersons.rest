@@ -1,0 +1,2 @@
+# Hae kaikki henkilöt
+GET http://localhost:3000/persons

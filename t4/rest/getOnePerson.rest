@@ -1,0 +1,2 @@
+# Hae henkilö, jonka id = 1
+GET http://localhost:3000/person/1
