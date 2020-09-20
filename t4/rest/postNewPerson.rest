@@ -4,5 +4,5 @@ content-type: application/json
 
 {
     "nimi": "Testi REST Henkilö",
-    "puhelin": "0542154245"
+    "puhelin": "054-2154245"
 }
