@@ -1,0 +1,6 @@
+PUT http://localhost:3001/api/athlete/5
+content-type: application/json
+
+{
+    "nickName": "Päivitetty nimi REST rajapinnasta"
+}

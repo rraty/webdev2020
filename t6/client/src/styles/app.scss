@@ -1,0 +1,13 @@
+$enable-rounded: false;
+
+
+
+@import "~bootstrap/scss/bootstrap";
+@import "~react-datepicker/dist/react-datepicker.css";
+@import "~react-bootstrap-typeahead/css/Typeahead.css";
+
+
+
+label {
+    font-weight: 600;
+}

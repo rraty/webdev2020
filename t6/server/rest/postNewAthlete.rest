@@ -1,0 +1,10 @@
+POST http://localhost:3001/api/athlete/
+content-type: application/json
+
+{
+    "firstNames": "Testi REST",
+    "nickName": "Testi",
+    "lastName": "Henkilö",
+    "weight": "",
+    "achievements": []
+}
