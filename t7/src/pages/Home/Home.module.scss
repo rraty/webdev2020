@@ -1,0 +1,24 @@
+
+.Header {
+  padding: 2rem;
+  display: flex;
+  justify-content: center;
+  flex-direction: column;
+  align-items: center;
+  
+  h1, h3 {
+    padding: 0 0 1rem 0;
+  }
+}
+
+.Projects {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  gap: 12px;
+}
+
+.Footer {
+  height: 300px;
+  background-color: #fec601;
+}
